@@ -26,7 +26,7 @@ add_action('admin_print_styles', 'admin_css', 11 );
 
 ### 2 - Stylesheet
 
-Create /admin/ folder in your main parent theme and place the admin.css into.
+Create /admin/ folder in your main parent theme and place admin.css into.
 
 
 ## Have fun
