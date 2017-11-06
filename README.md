@@ -1,4 +1,4 @@
-![banner](https://github.com/SylvainBTL/Simplify-WPadmin/#)
+![banner](https://github.com/SylvainBTL/Simplify-WPadmin/banner.jpg)
 
 
 # Simplify WPadmin
