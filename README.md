@@ -3,7 +3,7 @@
 
 # Simplify WPadmin
 
-**Simplify WPadmin** it's clean and soft wordpress admin interface.
+Clean and soft wordpress admin interface.
 
 ## Installation
 
