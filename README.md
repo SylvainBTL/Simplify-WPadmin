@@ -1,14 +1,14 @@
 ![banner](https://github.com/SylvainBTL/Simplify-WPadmin/blob/master/banner.jpg)
 
 
-# Simplify WPadmin
+# Simplify wpadmin
 
 Clean and soft WordPress admin interface.
 
 ## Installation - Plugin 
 
-1. Unzip simplify-WPadmin.zip .
-2. Upload the simplify-WPadmin folder to the /wp-content/plugins/ directory .
+1. Unzip simplify-wpadmin.zip .
+2. Upload the simplify-wpadmin folder to the /wp-content/plugins/ directory .
 3. Activate the plugin through the 'Plugins' menu in WordPress .
 
 ## Installation - Basic 
