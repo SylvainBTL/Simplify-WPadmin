@@ -21,7 +21,7 @@ Add this code in your functions.php
 function admin_css() {
 
 $admin_handle = 'admin_css';
-$admin_stylesheet = get_template_directory_uri() . '/admin/admin.css';
+$admin_stylesheet = get_template_directory_uri() . '/admin/simplify.css';
 
 wp_enqueue_style( $admin_handle, $admin_stylesheet );
 }
