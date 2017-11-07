@@ -3,7 +3,7 @@
 
 # Simplify WPadmin
 
-Clean and soft wordpress admin interface.
+Clean and soft WordPress admin interface.
 
 ## Installation - Plugin 
 
@@ -39,5 +39,5 @@ Create /admin/ folder in your main parent theme and place admin.css into.
 
 License: GPLv2 or later /
 License URI: http://www.gnu.org/licenses/gpl-2.0.html /
-Wordpress: 4.8.3 
+WordPress : 4.8.3 
 
