@@ -9,7 +9,7 @@ Clean and soft wordpress admin interface.
 
 ###  1 - Function.php
 
-Add this code in your fonction.php
+Add this code in your functions.php
 
 ```
 function admin_css() {
